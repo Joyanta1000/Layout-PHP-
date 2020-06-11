@@ -3,7 +3,7 @@ nbproject
 .*
 !/.gitignore
 *~
-php-store-hours
+~php-store-hours
 index.php
 LICENSE
 phpunit.xml.dist
