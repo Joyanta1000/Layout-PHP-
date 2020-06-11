@@ -1,0 +1,13 @@
+build
+nbproject
+.*
+!/.gitignore
+*~
+/php-store-hours
+index.php
+LICENSE
+phpunit.xml.dist
+README.md
+StoreHours.class.php
+StoreHours2.class.php
+StoreHoursTest.php
